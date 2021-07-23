@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 18:56:57 2021
-
-@author: Sowrappa
-"""
-
 import shutil
 from shutil import copyfile
 import glob
